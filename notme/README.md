@@ -12,4 +12,5 @@ Some day it becomes an album "НЕЯ".
 * [Song To Say Goodbye](songtosaygoodbye.txt)
 * [Rodeo](rodeo.txt)
 * [Крылья](wings.txt)
+* [Письмо](letter.txt)
 * [Квiтка](blossom.txt)
