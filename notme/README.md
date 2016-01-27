@@ -8,6 +8,8 @@ Some day it becomes an album "НЕЯ".
 * [Le Vent Nous Portera](leventnousportera.txt)
 * [Pictures of Yourself](picturesofyourself.txt)
 * [A Ton Etoile](atonetoile.txt)
+* [Protect Me From What I Want](protectmefromwhatiwant.txt)
+* [Song To Say Goodbye](songtosaygoodbye.txt)
 * [Rodeo](rodeo.txt)
 * [Крылья](wings.txt)
 * [Квiтка](blossom.txt)
