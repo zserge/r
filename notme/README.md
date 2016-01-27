@@ -10,6 +10,7 @@ Some day it becomes an album "НЕЯ".
 * [A Ton Etoile](atonetoile.txt)
 * [Protect Me From What I Want](protectmefromwhatiwant.txt)
 * [Song To Say Goodbye](songtosaygoodbye.txt)
+* [Bukowski](bukowski.txt)
 * [Rodeo](rodeo.txt)
 * [Крылья](wings.txt)
 * [Письмо](letter.txt)
